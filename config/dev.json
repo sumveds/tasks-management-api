@@ -1,0 +1,9 @@
+{
+  "database": {
+    "host": "mongodb://sumveds:tasks_gomon_123@ds145359.mlab.com:45359/tasks",
+    "timeout": 10000
+  },
+  "http": {
+    "timeout": 10000
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "database": {
+    "host": "mongodb://sumved/tasks",
+    "timeout": 10000
+  },
+  "http": {
+    "timeout": 10000
+  }
+}
