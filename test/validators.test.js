@@ -7,7 +7,7 @@ const sinon = require('sinon');
 const httpMocks = require('node-mocks-http');
 const { OK, BAD_REQUEST } = require('http-status-codes');
 
-const Validators = require('../utils/Validators');
+const Validators = require('../utils/validators');
 
 describe('Validators util', () => {
   it('should validate create task request and fail', (done) => {
