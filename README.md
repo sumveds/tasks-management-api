@@ -1,2 +1,2 @@
 # tasks-management-api
-Tasks management API's built using Node.js.
+Tasks management restful API's built using Node.js.
